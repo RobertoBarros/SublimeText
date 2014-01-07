@@ -1,7 +1,4 @@
-SublimeText
-===========
-
-Minhas configurações do Sublime Text 3
+Config for Sublime Text 3
 
 ## Install
 
