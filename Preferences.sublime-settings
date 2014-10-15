@@ -2,7 +2,7 @@
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"color_scheme": "Packages/User/Flatland Monokai (SL).tmTheme",
 	"file_exclude_patterns":
 	[
 		".DS_Store"
@@ -18,7 +18,7 @@
 		"tmp",
 		"log"
 	],
-	"font_face": "Source Code Pro",
+	"font_face": "Mensch",
 	"font_options":
 	[
 		"subpixel_antialias"
@@ -29,7 +29,6 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"SublimeCodeIntel"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
