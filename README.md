@@ -14,3 +14,5 @@ Clone as your `User` packages:
 git clone git@github.com:RobertoBarros/SublimeText.git User
 ```
 
+
+Using theme https://github.com/wesbos/cobalt2
