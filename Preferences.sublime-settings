@@ -2,7 +2,8 @@
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/User/Flatland Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"theme": "Cobalt2.sublime-theme",
 	"file_exclude_patterns":
 	[
 		".DS_Store"
@@ -28,7 +29,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
+		"Vintage"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
@@ -36,7 +37,6 @@
 	"scroll_past_end": false,
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
