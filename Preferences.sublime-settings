@@ -2,8 +2,7 @@
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_style": "solid",
-	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
-	"theme": "Cobalt2.sublime-theme",
+	"color_scheme": "Packages/User/cobalt2 (SL).tmTheme",
 	"file_exclude_patterns":
 	[
 		".DS_Store"
@@ -19,12 +18,12 @@
 		"tmp",
 		"log"
 	],
-	"font_face": "Mensch",
+	"font_face": "Office Code Pro",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 15.0,
+	"font_size": 17.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -37,6 +36,7 @@
 	"scroll_past_end": false,
 	"show_full_path": true,
 	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
