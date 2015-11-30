@@ -16,7 +16,8 @@
 		".git",
 		".sass-cache",
 		"tmp",
-		"log"
+		"log",
+		".meteor"
 	],
 	"font_face": "Monaco",
 	"font_options":
