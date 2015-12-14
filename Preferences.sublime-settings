@@ -17,7 +17,8 @@
 		".sass-cache",
 		"tmp",
 		"log",
-		".meteor"
+		".meteor",
+		"node_modules"
 	],
 	"font_face": "Monaco",
 	"font_options":
