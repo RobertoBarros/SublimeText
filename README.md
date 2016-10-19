@@ -10,9 +10,17 @@ Install font Office Code Pro: https://github.com/nathco/Office-Code-Pro
 
 Go to your Packages directory:
 
+Mac:
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 ```
+
+Linux:
+```
+cd ~/.config/sublime-text-3/Packages/User/
+```
+
+
 
 Clone as your `User` packages:
 
@@ -25,9 +33,11 @@ git clone git@github.com:RobertoBarros/SublimeText.git User
 * All Autocomplete
 * Better CoffeeScript
 * BracketHighlighter
+* ChangeQuotes
 * Highlight Dodgy Chars
 * Markdown Preview
 * Sass
+* Select Quoted
 * SideBarEnhancements
 * SublimeLinter-contrib-scss-lint
 * SublimeLinter-rubocop
