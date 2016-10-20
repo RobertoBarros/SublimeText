@@ -6,7 +6,7 @@ First go to https://sublime.wbond.net/installation and install package control
 
 Install theme https://github.com/wesbos/cobalt2
 
-Install font Office Code Pro: https://github.com/nathco/Office-Code-Pro
+Install font Hack: https://github.com/chrissimpkins/Hack
 
 Go to your Packages directory:
 
