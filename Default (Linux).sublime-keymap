@@ -1,0 +1,10 @@
+[
+  {
+        "keys": ["ctrl+shift+b","ctrl+shift+q"],
+        "command": "bracket_highlighter_key",
+        "args":
+        {
+            "plugin": {"type": ["quote"],"command" : "bracket_plugins.swap_quotes"}
+        }
+    }
+]

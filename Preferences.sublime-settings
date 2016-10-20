@@ -1,14 +1,15 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"caret_style": "solid",
-	"color_scheme": "Packages/User/cobalt2 (SL).tmTheme",
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 3,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"file_exclude_patterns":
 	[
 		".DS_Store"
 	],
-	"flatland_sidebar_tree_medium": true,
-	"flatland_square_tabs": true,
 	"folder_exclude_patterns":
 	[
 		"bin",
@@ -20,18 +21,24 @@
 		".meteor/local",
 		"node_modules"
 	],
-	"font_face": "Monaco",
+	"font_face": "Hack",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 15.0,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_files": true,
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"save_on_focus_lost": true,
@@ -39,8 +46,8 @@
 	"show_full_path": true,
 	"tab_size": 2,
 	"theme": "Cobalt2.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"wide_caret": true,
+	"wide_caret": false,
 	"word_wrap": true
 }
