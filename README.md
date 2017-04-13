@@ -42,3 +42,4 @@ git clone git@github.com:RobertoBarros/SublimeText.git User
 * SublimeLinter-contrib-scss-lint
 * SublimeLinter-rubocop
 * SyncedSideBar
+* Move Tab
