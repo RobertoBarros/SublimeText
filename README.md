@@ -36,9 +36,11 @@ git clone git@github.com:RobertoBarros/SublimeText.git User
 * ChangeQuotes
 * Highlight Dodgy Chars
 * Markdown Preview
+* MoveTab
 * Sass
 * Select Quoted
 * SideBarEnhancements
+* SublimeLinter
 * SublimeLinter-contrib-scss-lint
 * SublimeLinter-rubocop
 * SyncedSideBar
