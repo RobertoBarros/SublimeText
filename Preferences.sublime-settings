@@ -10,6 +10,7 @@
 	[
 		".DS_Store"
 	],
+	"file_exclude_patterns": ["*.min.*"],
 	"folder_exclude_patterns":
 	[
 		"bin",
@@ -19,14 +20,16 @@
 		"tmp",
 		"log",
 		".meteor/local",
-		"node_modules"
+		"node_modules",
+		"public/packs",
+		"public/user_images"
 	],
-	"font_face": "Hack",
+	"font_face": "Fira Code",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
