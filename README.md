@@ -31,6 +31,7 @@ git clone git@github.com:RobertoBarros/SublimeText.git User
 ## Packages
 
 * All Autocomplete
+* ApplySyntax
 * Better CoffeeScript
 * BracketHighlighter
 * ChangeQuotes
