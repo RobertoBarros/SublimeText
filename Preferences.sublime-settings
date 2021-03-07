@@ -5,12 +5,11 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 3,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"color_scheme": "Packages/RailsBase16 Color Schemes/RailsBase16-atelierdune.dark.tmTheme",
 	"file_exclude_patterns":
 	[
-		".DS_Store"
+		"*.min.*"
 	],
-	"file_exclude_patterns": ["*.min.*"],
 	"folder_exclude_patterns":
 	[
 		"bin",
