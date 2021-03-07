@@ -34,14 +34,20 @@ git clone git@github.com:RobertoBarros/SublimeText.git User
 * Better CoffeeScript
 * BracketHighlighter
 * ChangeQuotes
+* Click To Partial
+* CodeFormatter
+* Color Highlight
+* Git blame
 * Highlight Dodgy Chars
 * Markdown Preview
 * MoveTab
+* RailsBase16 Color Schemes
 * Sass
 * Select Quoted
 * SideBarEnhancements
+* Solarized Color Scheme
 * SublimeLinter
 * SublimeLinter-contrib-scss-lint
 * SublimeLinter-rubocop
 * SyncedSideBar
-* Move Tab
+* Theme - Cobalt2
