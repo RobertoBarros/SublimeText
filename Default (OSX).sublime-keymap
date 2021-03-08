@@ -1,12 +1,28 @@
 [
 
-	//Plugin: Rails File Switcher
-	{ "keys": ["super+1"], "command": "open_related_rails_model" },
-	{ "keys": ["super+2"], "command": "open_related_rails_controller" },
-	{ "keys": ["super+3"], "command": "open_related_rails_view" },
-	{ "keys": ["super+4"], "command": "open_related_rspec_model" },
-	{ "keys": ["super+5"], "command": "open_related_rspec_controller" },
+  // Plugin: https://github.com/noklesta/SublimeRailsNav/tree/ST3
+  { "keys": ["super+ctrl+m"], "command": "list_rails_models" },
+  { "keys": ["super+ctrl+c"], "command": "list_rails_controllers" },
+  { "keys": ["super+ctrl+v"], "command": "list_rails_views" },
+  { "keys": ["super+ctrl+h"], "command": "list_rails_helpers" },
+  { "keys": ["super+ctrl+x"], "command": "list_rails_fixtures" },
+  { "keys": ["super+ctrl+t"], "command": "list_rails_tests" },
+  { "keys": ["super+ctrl+i"], "command": "list_rails_javascripts" },
+  { "keys": ["super+ctrl+y"], "command": "list_rails_stylesheets" },
 
+  {
+      "keys": ["ctrl+alt+super+q"],
+      "command": "bh_key",
+      "args":
+      {
+          "lines" : true,
+          "plugin":
+          {
+              "type": ["single_quote", "double_quote", "py_single_quote", "py_double_quote"],
+              "command": "bh_modules.swapquotes"
+          }
+      }
+  },
 
 	// Plugin: BracketHighlighter Select text between brackets
 	{
