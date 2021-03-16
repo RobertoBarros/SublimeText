@@ -7,6 +7,7 @@ First go to https://sublime.wbond.net/installation and install package control
 Install theme https://github.com/wesbos/cobalt2
 
 ~~Install font Hack: https://github.com/chrissimpkins/Hack~~
+
 Install font FiraCode: https://github.com/tonsky/FiraCode
 
 Go to your Packages directory:
