@@ -11,16 +11,16 @@ Install font Hack: https://github.com/chrissimpkins/Hack
 Go to your Packages directory:
 
 Mac:
+
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 ```
 
 Linux:
+
 ```
 cd ~/.config/sublime-text-3/Packages/User/
 ```
-
-
 
 Clone as your `User` packages:
 
@@ -30,25 +30,27 @@ git clone git@github.com:RobertoBarros/SublimeText.git User
 
 ## Packages
 
-* All Autocomplete
-* ApplySyntax
-* Better CoffeeScript
-* BracketHighlighter
-* ChangeQuotes
-* Click To Partial
-* CodeFormatter
-* Color Highlight
-* Git blame
-* Highlight Dodgy Chars
-* Markdown Preview
-* MoveTab
-* RailsBase16 Color Schemes
-* Sass
-* Select Quoted
-* SideBarEnhancements
-* Solarized Color Scheme
-* SublimeLinter
-* SublimeLinter-contrib-scss-lint
-* SublimeLinter-rubocop
-* SyncedSideBar
-* Theme - Cobalt2
+- All Autocomplete
+- ApplySyntax
+- Better CoffeeScript
+- BracketHighlighter
+- ChangeQuotes
+- Click To Partial
+- CodeFormatter
+- Color Highlight
+- Git blame
+- Highlight Dodgy Chars
+- JsPrettier
+- Markdown Preview
+- MoveTab
+- RailsBase16 Color Schemes
+- Sass
+- Select Quoted
+- SideBarEnhancements
+- Solarized Color Scheme
+- SublimeLinter
+- SublimeLinter-eslint
+- SublimeLinter-contrib-scss-lint
+- SublimeLinter-rubocop
+- SyncedSideBar
+- Theme - Cobalt2
